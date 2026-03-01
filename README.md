@@ -47,5 +47,5 @@ https://www.exchangerate-api.com
 ---
 
 ## ✅ Author
-Made by **Nuqxo**  
-GitHub: https://github.com/nuqxo
+Made by **Nuqey**  
+GitHub: https://github.com/nuqey
